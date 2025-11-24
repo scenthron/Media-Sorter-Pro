@@ -13,8 +13,7 @@
 
 **Media Sorter Pro** is a powerful desktop application designed for the visual organization and sorting of large volumes of media content. Created for those who value order, speed, and functionality.
 
-![Main Interface](screenshots/main_interface.png)
-*(Place your screenshot here: create a 'screenshots' folder and name the file main_interface.png)*
+![Main Interface](screenshots/main_window.png)
 
 ### 🚀 Key Features
 
@@ -70,8 +69,7 @@ You can use the following tags for **Affix Buttons** and **Smart Folders**:
 
 **Media Sorter Pro** — это мощный инструмент для визуальной организации и сортировки больших объемов медиаконтента. Программа создана в помощь тем, кто ценит порядок, скорость работы и функциональность.
 
-![Главный Интерфейс](screenshots/main_interface_ru.png)
-*(Вставь скриншот сюда: создай папку 'screenshots' и назови файл main_interface_ru.png)*
+![Главный Интерфейс](screenshots/main_window.png)
 
 ### 🚀 Ключевые преимущества
 
