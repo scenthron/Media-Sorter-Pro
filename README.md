@@ -1,5 +1,9 @@
 # Media Sorter Pro 3.1 Ultimate
 
+<!-- Badges / Бейджи статистики -->
+![Downloads](https://img.shields.io/github/downloads/scenthron/Media-Sorter-Pro/total?style=for-the-badge&label=Downloads&color=blue)
+![Size](https://img.shields.io/github/repo-size/scenthron/Media-Sorter-Pro?style=for-the-badge&label=Repo%20Size&color=orange)
+
 <!-- Language Navigation / Навигация по языкам -->
 <p align="center">
   <a href="#english">🇬🇧 English Version</a> | <a href="#russian">🇷🇺 Русская Версия</a>
@@ -10,6 +14,9 @@
 <div id="english"></div>
 
 ## 🇬🇧 Media Sorter Pro - Advanced Media Organization Tool
+
+**Creator:** Centhron  
+**GitHub:** [https://github.com/scenthron/Media-Sorter-Pro](https://github.com/scenthron/Media-Sorter-Pro)
 
 **Media Sorter Pro** is a powerful desktop application designed for the visual organization and sorting of large volumes of media content. Created for those who value order, speed, and functionality.
 
@@ -51,7 +58,6 @@ You can use the following tags for **Affix Buttons** and **Smart Folders**:
 *   `%seq` — Sequential counter (001, 002...)
 *   `%rand[4]` — Random HEX string (4 chars)
 *   `%randNum[3]` — Random digits (3 chars)
-*   `%dell[...]` - full name replacement (for affixes only)
 
 ---
 
@@ -67,6 +73,9 @@ You can use the following tags for **Affix Buttons** and **Smart Folders**:
 <div id="russian"></div>
 
 ## 🇷🇺 Media Sorter Pro - Профессиональная сортировка медиа
+
+**Создатель:** Centhron  
+**GitHub:** [https://github.com/scenthron/Media-Sorter-Pro](https://github.com/scenthron/Media-Sorter-Pro)
 
 **Media Sorter Pro** — это мощный инструмент для визуальной организации и сортировки больших объемов медиаконтента. Программа создана в помощь тем, кто ценит порядок, скорость работы и функциональность.
 
