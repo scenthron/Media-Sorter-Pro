@@ -51,6 +51,7 @@ You can use the following tags for **Affix Buttons** and **Smart Folders**:
 *   `%seq` — Sequential counter (001, 002...)
 *   `%rand[4]` — Random HEX string (4 chars)
 *   `%randNum[3]` — Random digits (3 chars)
+*   `%dell[...]` - full name replacement (for affixes only)
 
 ---
 
