@@ -2,7 +2,6 @@
 
 <!-- Badges / Бейджи статистики -->
 ![Downloads](https://img.shields.io/github/downloads/scenthron/Media-Sorter-Pro/total?style=for-the-badge&label=Downloads&color=blue)
-![Size](https://img.shields.io/github/repo-size/scenthron/Media-Sorter-Pro?style=for-the-badge&label=Repo%20Size&color=orange)
 
 <!-- Language Navigation / Навигация по языкам -->
 <p align="center">
